@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Membership",
+        "price": 29,
+        "features": [
+            "Access to the gym during regular hours"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Premium Membership",
+        "price": 49,
+        "features": [
+            "Access to the gym 24/7",
+            "Personal training sessions",
+            "Group fitness classes"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Family Membership",
+        "price": 89,
+        "features": [
+            "Access to the gym for up to 4 family members",
+            "Discounts on personal training and group classes"
+        ]
+    }
+]
